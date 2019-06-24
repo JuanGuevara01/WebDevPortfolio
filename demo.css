@@ -6,3 +6,10 @@ h1 {
     color: black;
     text-align: Center;   
 }
+body {
+    background-color: black;
+}
+.text-style {
+    color: white;
+    text-align: center;
+}
