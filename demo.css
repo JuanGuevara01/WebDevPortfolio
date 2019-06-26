@@ -1,10 +1,13 @@
 h1 {
-    color:blue;
+    color: whitesmoke;
     text-align: Center;
+    font-size: 100px;
 }
 .navigation {
     color: black;
     text-align: Center;   
+    font-size: 30px;
+    
 }
 body {
     background-color: black;
@@ -12,4 +15,11 @@ body {
 .text-style {
     color: white;
     text-align: center;
+}
+h4 {
+    color: White;
+}
+.interests {
+    color: white;
+    font-size: 50px;
 }
